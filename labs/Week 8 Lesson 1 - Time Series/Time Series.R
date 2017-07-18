@@ -1,5 +1,10 @@
 install.packages('fpp')
 install.packages('forecast')
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> upstream/master
 
 library('forecast')
 library('fpp')
